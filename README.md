@@ -13,13 +13,12 @@ Thanks for checking out My first Project Involving Javascript
 
 ### Links
 
-- Solution URL: [Github-link](https://github.com/Mikiyas6/testimonials-grid-section-main)
-- Live Site URL: [Page-link](https://github.com/Mikiyas6/testimonials-grid-section-main/deployments/github-pages)
+- Solution URL: [Github-link](https://github.com/Mikiyas6/Guess-My-Number/tree/master)
+- Live Site URL: [Page-link](https://github.com/Mikiyas6/Guess-My-Number-main/deployments/github-pages)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
 - Desktop-first workflow
+- Javascript
